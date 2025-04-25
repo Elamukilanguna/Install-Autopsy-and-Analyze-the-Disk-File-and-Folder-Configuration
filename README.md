@@ -49,6 +49,14 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 ![image](https://github.com/user-attachments/assets/0ec73b31-6581-4330-aeef-3f62ec03f970)
 
+### Creating Virtual Disk:
+![Screenshot 2025-04-25 090812](https://github.com/user-attachments/assets/509f703d-56c4-4ac1-85bf-75140c694ba0)
+
+![Screenshot 2025-04-25 090841](https://github.com/user-attachments/assets/5f17d252-924c-4701-b325-a9c22ed69f6e)
+
+![Screenshot 2025-04-25 091004](https://github.com/user-attachments/assets/af54c547-c1a3-456b-b2d4-b80efec290be)
+
+
 ### Analysing the disk file and configuration:
 ![image](https://github.com/user-attachments/assets/a4377b18-14e7-4daa-98f4-a6eb9e85f6b6)
 
