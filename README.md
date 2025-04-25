@@ -58,15 +58,16 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 
 ### Analysing the disk file and configuration:
-![image](https://github.com/user-attachments/assets/a4377b18-14e7-4daa-98f4-a6eb9e85f6b6)
-
-![Screenshot 2025-04-22 215750](https://github.com/user-attachments/assets/461a6099-f23a-4e51-b1be-34e9c5409f10)
+![image](https://github.com/user-attachments/assets/9197aff7-15b6-4f52-a9c9-a405a5a01d14)
 
 ### Timeline:
-![image](https://github.com/user-attachments/assets/a75f3d66-685b-4883-b3b7-ad8140072d96)
+![image](https://github.com/user-attachments/assets/2ddc3bd5-e5b5-4d21-ab4f-201c0f2452f9)
+
+![image](https://github.com/user-attachments/assets/1906828f-8a17-4ef8-b5a9-e42340ae2b8c)
+
 
 ## Data Source Summary Report:
-![image](https://github.com/user-attachments/assets/150130e9-703c-483c-b7a3-0135665046c5)
+![image](https://github.com/user-attachments/assets/f8cfafb5-effb-4737-824f-93499bc68aff)
 
 
 ## RESULT:
